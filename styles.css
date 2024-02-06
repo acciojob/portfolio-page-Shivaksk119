@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+#webpage{
+	background-color:lightgoldenrodyellow;
+	font-family: arial;
+	padding:20px;
+	border-radius:10px:
+}
+
+#image{
+	text-align:center;
+}
+
+img{
+	width: 700px;
+	border-radius:20px;
+}
+
+#contact{
+	display:inline;
+}
